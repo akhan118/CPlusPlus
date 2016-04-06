@@ -1,0 +1,6 @@
+/Users/knkenne/Desktop/cplusobj/week3/main.cpp: In function 'int main()':
+/Users/knkenne/Desktop/cplusobj/week3/main.cpp:10: error: 'circleType' was not declared in this scope
+/Users/knkenne/Desktop/cplusobj/week3/main.cpp:10: error: expected `;' before 'circle'
+/Users/knkenne/Desktop/cplusobj/week3/main.cpp:15: error: 'cout' was not declared in this scope
+/Users/knkenne/Desktop/cplusobj/week3/main.cpp:16: error: 'cin' was not declared in this scope
+/Users/knkenne/Desktop/cplusobj/week3/main.cpp:21: error: 'circle' was not declared in this scope

@@ -1,0 +1,97 @@
+Tweek2
+v7
+r0
+t359509147.576354
+cCheck dependencies
+cCompileC build/week2.build/Debug/week2.build/Objects-normal/x86_64/main.o /Users/knkenne/Desktop/cplusobj/week2/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+cCompileC build/week2.build/Debug/week2.build/Objects-normal/x86_64/RomanTypeIMPL.o /Users/knkenne/Desktop/cplusobj/week2/RomanTypeIMPL.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+cLd /Users/knkenne/Desktop/cplusobj/week2/build/Debug/week2 normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004D5A274300000000000000EE
+t1297753923
+s238
+
+N/Users/knkenne/Desktop/cplusobj/week2/RomanType.h
+c000000004FBD7329000000000000026C
+t1337815849
+s620
+
+N/Users/knkenne/Desktop/cplusobj/week2/RomanTypeIMPL.cpp
+c000000004FBD732900000000000006B9
+t1337815849
+s1721
+i<iostream>
+i"RomanType.h"
+
+N/Users/knkenne/Desktop/cplusobj/week2/RomanTypeIMPL.h
+c000000004FBC7C930000000000000088
+t1337752723
+s136
+
+N/Users/knkenne/Desktop/cplusobj/week2/build/Debug/week2
+t1337816347
+s17744
+
+N/Users/knkenne/Desktop/cplusobj/week2/build/week2.build/Debug/week2.build/Objects-normal/x86_64/RomanTypeIMPL.o
+t1337815849
+s70536
+
+N/Users/knkenne/Desktop/cplusobj/week2/build/week2.build/Debug/week2.build/Objects-normal/x86_64/main.o
+t1337816345
+s72332
+
+N/Users/knkenne/Desktop/cplusobj/week2/build/week2.build/Debug/week2.build/Objects-normal/x86_64/week2.LinkFileList
+c000000004FBC7CB600000000000000D7
+t1337752758
+s215
+
+N/Users/knkenne/Desktop/cplusobj/week2/main.cpp
+c000000004FBD7519000000000000046D
+t1337816345
+s1133
+i<iostream>
+i<string>
+i<sstream>
+i"RomanType.h"
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies359509147#359509147#0(0"0(0#1#0"8614286784#0"0#
+
+CCompileC build/week2.build/Debug/week2.build/Objects-normal/x86_64/RomanTypeIMPL.o /Users/knkenne/Desktop/cplusobj/week2/RomanTypeIMPL.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s359508649.518057
+e359508649.943214
+r1
+xCompileC
+xbuild/week2.build/Debug/week2.build/Objects-normal/x86_64/RomanTypeIMPL.o
+x/Users/knkenne/Desktop/cplusobj/week2/RomanTypeIMPL.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@63"Compile /Users/knkenne/Desktop/cplusobj/week2/RomanTypeIMPL.cpp359508649#359508649#0(0"0(0#0#55"/Users/knkenne/Desktop/cplusobj/week2/RomanTypeIMPL.cpp8613692768#1262"    cd /Users/knkenne/Desktop/cplusobj/week2    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/knkenne/Desktop/cplusobj/week2/build/week2.build/Debug/week2.build/week2-generated-files.hmap -I/Users/knkenne/Desktop/cplusobj/week2/build/week2.build/Debug/week2.build/week2-own-target-headers.hmap -I/Users/knkenne/Desktop/cplusobj/week2/build/week2.build/Debug/week2.build/week2-all-target-headers.hmap -iquote /Users/knkenne/Desktop/cplusobj/week2/build/week2.build/Debug/week2.build/week2-project-headers.hmap -F/Users/knkenne/Desktop/cplusobj/week2/build/Debug -I/Users/knkenne/Desktop/cplusobj/week2/build/Debug/include -I/Users/knkenne/Desktop/cplusobj/week2/build/week2.build/Debug/week2.build/DerivedSources/x86_64 -I/Users/knkenne/Desktop/cplusobj/week2/build/week2.build/Debug/week2.build/DerivedSources -c /Users/knkenne/Desktop/cplusobj/week2/RomanTypeIMPL.cpp -o /Users/knkenne/Desktop/cplusobj/week2/build/week2.build/Debug/week2.build/Objects-normal/x86_64/RomanTypeIMPL.o0#
+
+CCompileC build/week2.build/Debug/week2.build/Objects-normal/x86_64/main.o /Users/knkenne/Desktop/cplusobj/week2/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s359509147.558376
+e359509147.559175
+r1
+xCompileC
+xbuild/week2.build/Debug/week2.build/Objects-normal/x86_64/main.o
+x/Users/knkenne/Desktop/cplusobj/week2/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@54"Compile /Users/knkenne/Desktop/cplusobj/week2/main.cpp359509147#359509147#0(0"0(0#0#46"/Users/knkenne/Desktop/cplusobj/week2/main.cpp8613573184#1244"    cd /Users/knkenne/Desktop/cplusobj/week2    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/knkenne/Desktop/cplusobj/week2/build/week2.build/Debug/week2.build/week2-generated-files.hmap -I/Users/knkenne/Desktop/cplusobj/week2/build/week2.build/Debug/week2.build/week2-own-target-headers.hmap -I/Users/knkenne/Desktop/cplusobj/week2/build/week2.build/Debug/week2.build/week2-all-target-headers.hmap -iquote /Users/knkenne/Desktop/cplusobj/week2/build/week2.build/Debug/week2.build/week2-project-headers.hmap -F/Users/knkenne/Desktop/cplusobj/week2/build/Debug -I/Users/knkenne/Desktop/cplusobj/week2/build/Debug/include -I/Users/knkenne/Desktop/cplusobj/week2/build/week2.build/Debug/week2.build/DerivedSources/x86_64 -I/Users/knkenne/Desktop/cplusobj/week2/build/week2.build/Debug/week2.build/DerivedSources -c /Users/knkenne/Desktop/cplusobj/week2/main.cpp -o /Users/knkenne/Desktop/cplusobj/week2/build/week2.build/Debug/week2.build/Objects-normal/x86_64/main.o0#
+
+CLd /Users/knkenne/Desktop/cplusobj/week2/build/Debug/week2 normal x86_64
+s359509147.559290
+e359509147.576308
+r1
+xLd
+x/Users/knkenne/Desktop/cplusobj/week2/build/Debug/week2
+xnormal
+xx86_64
+lSLF07#2@60"Link /Users/knkenne/Desktop/cplusobj/week2/build/Debug/week2359509147#359509147#0(0"0(0#0#0"8613397632#485"    cd /Users/knkenne/Desktop/cplusobj/week2    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/knkenne/Desktop/cplusobj/week2/build/Debug -F/Users/knkenne/Desktop/cplusobj/week2/build/Debug -filelist /Users/knkenne/Desktop/cplusobj/week2/build/week2.build/Debug/week2.build/Objects-normal/x86_64/week2.LinkFileList -mmacosx-version-min=10.6 -o /Users/knkenne/Desktop/cplusobj/week2/build/Debug/week20#
+

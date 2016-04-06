@@ -1,0 +1,61 @@
+Tweek1part2
+v7
+r0
+t370403058.157519
+cCheck dependencies
+cCompileC build/week1part2.build/Debug/week1part2.build/Objects-normal/x86_64/main.o /Users/knkenne/Desktop/cplusobj/week1part2/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+cLd /Users/knkenne/Desktop/cplusobj/week1part2/build/Debug/week1part2 normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004D5A274300000000000000EE
+t1297753923
+s238
+
+N/Users/knkenne/Desktop/cplusobj/week1part2/build/Debug/week1part2
+t1348710258
+s11976
+
+N/Users/knkenne/Desktop/cplusobj/week1part2/build/week1part2.build/Debug/week1part2.build/Objects-normal/x86_64/main.o
+t1348710253
+s80120
+
+N/Users/knkenne/Desktop/cplusobj/week1part2/build/week1part2.build/Debug/week1part2.build/Objects-normal/x86_64/week1part2.LinkFileList
+c000000004FB43B8A0000000000000076
+t1337211786
+s118
+
+N/Users/knkenne/Desktop/cplusobj/week1part2/main.cpp
+c000000005063AF6D000000000000022D
+t1348710253
+s557
+i<iostream>
+i<fstream>
+i<istream>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies370403058#370403058#0(0"0(0#1#0"8615440768#0"0#
+
+CCompileC build/week1part2.build/Debug/week1part2.build/Objects-normal/x86_64/main.o /Users/knkenne/Desktop/cplusobj/week1part2/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s370403058.136512
+e370403058.137600
+r1
+xCompileC
+xbuild/week1part2.build/Debug/week1part2.build/Objects-normal/x86_64/main.o
+x/Users/knkenne/Desktop/cplusobj/week1part2/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@59"Compile /Users/knkenne/Desktop/cplusobj/week1part2/main.cpp370403058#370403058#0(0"0(0#0#51"/Users/knkenne/Desktop/cplusobj/week1part2/main.cpp8615639776#1389"    cd /Users/knkenne/Desktop/cplusobj/week1part2    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/knkenne/Desktop/cplusobj/week1part2/build/week1part2.build/Debug/week1part2.build/week1part2-generated-files.hmap -I/Users/knkenne/Desktop/cplusobj/week1part2/build/week1part2.build/Debug/week1part2.build/week1part2-own-target-headers.hmap -I/Users/knkenne/Desktop/cplusobj/week1part2/build/week1part2.build/Debug/week1part2.build/week1part2-all-target-headers.hmap -iquote /Users/knkenne/Desktop/cplusobj/week1part2/build/week1part2.build/Debug/week1part2.build/week1part2-project-headers.hmap -F/Users/knkenne/Desktop/cplusobj/week1part2/build/Debug -I/Users/knkenne/Desktop/cplusobj/week1part2/build/Debug/include -I/Users/knkenne/Desktop/cplusobj/week1part2/build/week1part2.build/Debug/week1part2.build/DerivedSources/x86_64 -I/Users/knkenne/Desktop/cplusobj/week1part2/build/week1part2.build/Debug/week1part2.build/DerivedSources -c /Users/knkenne/Desktop/cplusobj/week1part2/main.cpp -o /Users/knkenne/Desktop/cplusobj/week1part2/build/week1part2.build/Debug/week1part2.build/Objects-normal/x86_64/main.o0#
+
+CLd /Users/knkenne/Desktop/cplusobj/week1part2/build/Debug/week1part2 normal x86_64
+s370403058.137661
+e370403058.157474
+r1
+xLd
+x/Users/knkenne/Desktop/cplusobj/week1part2/build/Debug/week1part2
+xnormal
+xx86_64
+lSLF07#2@70"Link /Users/knkenne/Desktop/cplusobj/week1part2/build/Debug/week1part2370403058#370403058#0(0"0(0#0#0"8615462528#530"    cd /Users/knkenne/Desktop/cplusobj/week1part2    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/knkenne/Desktop/cplusobj/week1part2/build/Debug -F/Users/knkenne/Desktop/cplusobj/week1part2/build/Debug -filelist /Users/knkenne/Desktop/cplusobj/week1part2/build/week1part2.build/Debug/week1part2.build/Objects-normal/x86_64/week1part2.LinkFileList -mmacosx-version-min=10.6 -o /Users/knkenne/Desktop/cplusobj/week1part2/build/Debug/week1part20#
+

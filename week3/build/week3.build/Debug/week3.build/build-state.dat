@@ -1,0 +1,127 @@
+Tweek3
+v7
+r0
+t371603709.679280
+cCheck dependencies
+cCompileC build/week3.build/Debug/week3.build/Objects-normal/x86_64/main.o /Users/knkenne/Desktop/cplusobj/week3/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+cCompileC build/week3.build/Debug/week3.build/Objects-normal/x86_64/pointType.o /Users/knkenne/Desktop/cplusobj/week3/pointType.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+cCompileC build/week3.build/Debug/week3.build/Objects-normal/x86_64/circleType.o /Users/knkenne/Desktop/cplusobj/week3/circleType.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+cLd /Users/knkenne/Desktop/cplusobj/week3/build/Debug/week3 normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004D5A274300000000000000EE
+t1297753923
+s238
+
+N/Users/knkenne/Desktop/cplusobj/week3/build/Debug/week3
+t2
+s0
+
+N/Users/knkenne/Desktop/cplusobj/week3/build/week3.build/Debug/week3.build/Objects-normal/x86_64/circleType.o
+t1349910253
+s73424
+
+N/Users/knkenne/Desktop/cplusobj/week3/build/week3.build/Debug/week3.build/Objects-normal/x86_64/main.o
+t1349910905
+s79748
+
+N/Users/knkenne/Desktop/cplusobj/week3/build/week3.build/Debug/week3.build/Objects-normal/x86_64/pointType.o
+t1349910253
+s70204
+
+N/Users/knkenne/Desktop/cplusobj/week3/build/week3.build/Debug/week3.build/Objects-normal/x86_64/week3.LinkFileList
+c000000004FC6618D0000000000000140
+t1338401165
+s320
+
+N/Users/knkenne/Desktop/cplusobj/week3/circleType.cpp
+c000000004FC66EB50000000000000578
+t1338404533
+s1400
+i"circleType.h"
+i<iostream>
+i<iomanip>
+i<cmath>
+
+N/Users/knkenne/Desktop/cplusobj/week3/circleType.h
+c000000004FC66EF10000000000000239
+t1338404593
+s569
+i"pointType.h"
+
+N/Users/knkenne/Desktop/cplusobj/week3/main.cpp
+c00000000507601780000000000000A79
+t1349910904
+s2681
+i<iostream>
+i<iomanip>
+i<cmath>
+
+N/Users/knkenne/Desktop/cplusobj/week3/pointType.cpp
+c000000004FC66C7E0000000000000293
+t1338403966
+s659
+i"pointType.h"
+i<iostream>
+i<iomanip>
+
+N/Users/knkenne/Desktop/cplusobj/week3/pointType.h
+c000000005075FEEC000000000000016A
+t1349910252
+s362
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies371603709#371603709#0(0"0(0#1#0"8612799680#0"0#
+
+CCompileC build/week3.build/Debug/week3.build/Objects-normal/x86_64/circleType.o /Users/knkenne/Desktop/cplusobj/week3/circleType.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s371603052.827247
+e371603053.232871
+r1
+xCompileC
+xbuild/week3.build/Debug/week3.build/Objects-normal/x86_64/circleType.o
+x/Users/knkenne/Desktop/cplusobj/week3/circleType.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@60"Compile /Users/knkenne/Desktop/cplusobj/week3/circleType.cpp371603052#371603053#0(0"0(0#0#52"/Users/knkenne/Desktop/cplusobj/week3/circleType.cpp8606539904#1256"    cd /Users/knkenne/Desktop/cplusobj/week3    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/knkenne/Desktop/cplusobj/week3/build/week3.build/Debug/week3.build/week3-generated-files.hmap -I/Users/knkenne/Desktop/cplusobj/week3/build/week3.build/Debug/week3.build/week3-own-target-headers.hmap -I/Users/knkenne/Desktop/cplusobj/week3/build/week3.build/Debug/week3.build/week3-all-target-headers.hmap -iquote /Users/knkenne/Desktop/cplusobj/week3/build/week3.build/Debug/week3.build/week3-project-headers.hmap -F/Users/knkenne/Desktop/cplusobj/week3/build/Debug -I/Users/knkenne/Desktop/cplusobj/week3/build/Debug/include -I/Users/knkenne/Desktop/cplusobj/week3/build/week3.build/Debug/week3.build/DerivedSources/x86_64 -I/Users/knkenne/Desktop/cplusobj/week3/build/week3.build/Debug/week3.build/DerivedSources -c /Users/knkenne/Desktop/cplusobj/week3/circleType.cpp -o /Users/knkenne/Desktop/cplusobj/week3/build/week3.build/Debug/week3.build/Objects-normal/x86_64/circleType.o0#
+
+CCompileC build/week3.build/Debug/week3.build/Objects-normal/x86_64/main.o /Users/knkenne/Desktop/cplusobj/week3/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s371603708.291657
+e371603708.292484
+r1
+xCompileC
+xbuild/week3.build/Debug/week3.build/Objects-normal/x86_64/main.o
+x/Users/knkenne/Desktop/cplusobj/week3/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@54"Compile /Users/knkenne/Desktop/cplusobj/week3/main.cpp371603708#371603708#0(0"0(0#0#46"/Users/knkenne/Desktop/cplusobj/week3/main.cpp8612977440#1244"    cd /Users/knkenne/Desktop/cplusobj/week3    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/knkenne/Desktop/cplusobj/week3/build/week3.build/Debug/week3.build/week3-generated-files.hmap -I/Users/knkenne/Desktop/cplusobj/week3/build/week3.build/Debug/week3.build/week3-own-target-headers.hmap -I/Users/knkenne/Desktop/cplusobj/week3/build/week3.build/Debug/week3.build/week3-all-target-headers.hmap -iquote /Users/knkenne/Desktop/cplusobj/week3/build/week3.build/Debug/week3.build/week3-project-headers.hmap -F/Users/knkenne/Desktop/cplusobj/week3/build/Debug -I/Users/knkenne/Desktop/cplusobj/week3/build/Debug/include -I/Users/knkenne/Desktop/cplusobj/week3/build/week3.build/Debug/week3.build/DerivedSources/x86_64 -I/Users/knkenne/Desktop/cplusobj/week3/build/week3.build/Debug/week3.build/DerivedSources -c /Users/knkenne/Desktop/cplusobj/week3/main.cpp -o /Users/knkenne/Desktop/cplusobj/week3/build/week3.build/Debug/week3.build/Objects-normal/x86_64/main.o0#
+
+CCompileC build/week3.build/Debug/week3.build/Objects-normal/x86_64/pointType.o /Users/knkenne/Desktop/cplusobj/week3/pointType.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s371603052.810324
+e371603053.232532
+r1
+xCompileC
+xbuild/week3.build/Debug/week3.build/Objects-normal/x86_64/pointType.o
+x/Users/knkenne/Desktop/cplusobj/week3/pointType.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@59"Compile /Users/knkenne/Desktop/cplusobj/week3/pointType.cpp371603052#371603053#0(0"0(0#0#51"/Users/knkenne/Desktop/cplusobj/week3/pointType.cpp8606567040#1254"    cd /Users/knkenne/Desktop/cplusobj/week3    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/knkenne/Desktop/cplusobj/week3/build/week3.build/Debug/week3.build/week3-generated-files.hmap -I/Users/knkenne/Desktop/cplusobj/week3/build/week3.build/Debug/week3.build/week3-own-target-headers.hmap -I/Users/knkenne/Desktop/cplusobj/week3/build/week3.build/Debug/week3.build/week3-all-target-headers.hmap -iquote /Users/knkenne/Desktop/cplusobj/week3/build/week3.build/Debug/week3.build/week3-project-headers.hmap -F/Users/knkenne/Desktop/cplusobj/week3/build/Debug -I/Users/knkenne/Desktop/cplusobj/week3/build/Debug/include -I/Users/knkenne/Desktop/cplusobj/week3/build/week3.build/Debug/week3.build/DerivedSources/x86_64 -I/Users/knkenne/Desktop/cplusobj/week3/build/week3.build/Debug/week3.build/DerivedSources -c /Users/knkenne/Desktop/cplusobj/week3/pointType.cpp -o /Users/knkenne/Desktop/cplusobj/week3/build/week3.build/Debug/week3.build/Objects-normal/x86_64/pointType.o0#
+
+CLd /Users/knkenne/Desktop/cplusobj/week3/build/Debug/week3 normal x86_64
+s371603709.660019
+e371603709.679227
+r0
+xLd
+x/Users/knkenne/Desktop/cplusobj/week3/build/Debug/week3
+xnormal
+xx86_64
+old: duplicate symbol pointType::setPoints(double, double)in /Users/knkenne/Desktop/cplusobj/week3/build/week3.build/Debug/week3.build/Objects-normal/x86_64/pointType.o and /Users/knkenne/Desktop/cplusobj/week3/build/week3.build/Debug/week3.build/Objects-normal/x86_64/main.o
+ocollect2: ld returned 1 exit status
+lSLF07#2@60"Link /Users/knkenne/Desktop/cplusobj/week3/build/Debug/week3371603709#371603709#0(370"ld: duplicate symbol pointType::setPoints(double, double)in /Users/knkenne/Desktop/cplusobj/week3/build/week3.build/Debug/week3.build/Objects-normal/x86_64/pointType.o and /Users/knkenne/Desktop/cplusobj/week3/build/week3.build/Debug/week3.build/Objects-normal/x86_64/main.ocollect2: ld returned 1 exit statusCommand /Developer/usr/bin/g++-4.2 failed with exit code 12(13@270"Duplicate symbol pointType::setPoints(double, double)in /Users/knkenne/Desktop/cplusobj/week3/build/week3.build/Debug/week3.build/Objects-normal/x86_64/pointType.o and /Users/knkenne/Desktop/cplusobj/week3/build/week3.build/Debug/week3.build/Objects-normal/x86_64/main.o371603709#0#275#0(6@0"371603709#0#0#0#0#0"0(4@58"Command /Developer/usr/bin/g++-4.2 failed with exit code 1371603709#18446744073709551615#0#0(1@0"0(0#0#0"8613168672#485"    cd /Users/knkenne/Desktop/cplusobj/week3    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/knkenne/Desktop/cplusobj/week3/build/Debug -F/Users/knkenne/Desktop/cplusobj/week3/build/Debug -filelist /Users/knkenne/Desktop/cplusobj/week3/build/week3.build/Debug/week3.build/Objects-normal/x86_64/week3.LinkFileList -mmacosx-version-min=10.6 -o /Users/knkenne/Desktop/cplusobj/week3/build/Debug/week31#
+

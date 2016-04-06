@@ -1,0 +1,90 @@
+Ttestingground
+v7
+r0
+t359422165.309175
+cCheck dependencies
+cCompileC build/testingground.build/Debug/testingground.build/Objects-normal/x86_64/main.o /Users/knkenne/Desktop/cplusobj/testingground/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+cCompileC build/testingground.build/Debug/testingground.build/Objects-normal/x86_64/classimp.o /Users/knkenne/Desktop/cplusobj/testingground/classimp.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+cLd /Users/knkenne/Desktop/cplusobj/testingground/build/Debug/testingground normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004D5A274300000000000000EE
+t1297753923
+s238
+
+N/Users/knkenne/Desktop/cplusobj/testingground/build/Debug/testingground
+t1337729365
+s16224
+
+N/Users/knkenne/Desktop/cplusobj/testingground/build/testingground.build/Debug/testingground.build/Objects-normal/x86_64/classimp.o
+t1337729361
+s69288
+
+N/Users/knkenne/Desktop/cplusobj/testingground/build/testingground.build/Debug/testingground.build/Objects-normal/x86_64/main.o
+t1337729263
+s47344
+
+N/Users/knkenne/Desktop/cplusobj/testingground/build/testingground.build/Debug/testingground.build/Objects-normal/x86_64/testingground.LinkFileList
+c000000004FBC00840000000000000102
+t1337720964
+s258
+
+N/Users/knkenne/Desktop/cplusobj/testingground/classimp.cpp
+c000000004FBC278A0000000000000168
+t1337730954
+s360
+i<iostream>
+i"classimp.h"
+
+N/Users/knkenne/Desktop/cplusobj/testingground/classimp.h
+c000000004FBC1E330000000000000135
+t1337728563
+s309
+
+N/Users/knkenne/Desktop/cplusobj/testingground/main.cpp
+c000000004FBC20EF00000000000000CC
+t1337729263
+s204
+i<iostream>
+i"classimp.h"
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies359422165#359422165#0(0"0(0#1#0"8614407936#0"0#
+
+CCompileC build/testingground.build/Debug/testingground.build/Objects-normal/x86_64/classimp.o /Users/knkenne/Desktop/cplusobj/testingground/classimp.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s359422165.290385
+e359422165.291248
+r1
+xCompileC
+xbuild/testingground.build/Debug/testingground.build/Objects-normal/x86_64/classimp.o
+x/Users/knkenne/Desktop/cplusobj/testingground/classimp.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@66"Compile /Users/knkenne/Desktop/cplusobj/testingground/classimp.cpp359422165#359422165#0(0"0(0#0#58"/Users/knkenne/Desktop/cplusobj/testingground/classimp.cpp8616448896#1484"    cd /Users/knkenne/Desktop/cplusobj/testingground    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/knkenne/Desktop/cplusobj/testingground/build/testingground.build/Debug/testingground.build/testingground-generated-files.hmap -I/Users/knkenne/Desktop/cplusobj/testingground/build/testingground.build/Debug/testingground.build/testingground-own-target-headers.hmap -I/Users/knkenne/Desktop/cplusobj/testingground/build/testingground.build/Debug/testingground.build/testingground-all-target-headers.hmap -iquote /Users/knkenne/Desktop/cplusobj/testingground/build/testingground.build/Debug/testingground.build/testingground-project-headers.hmap -F/Users/knkenne/Desktop/cplusobj/testingground/build/Debug -I/Users/knkenne/Desktop/cplusobj/testingground/build/Debug/include -I/Users/knkenne/Desktop/cplusobj/testingground/build/testingground.build/Debug/testingground.build/DerivedSources/x86_64 -I/Users/knkenne/Desktop/cplusobj/testingground/build/testingground.build/Debug/testingground.build/DerivedSources -c /Users/knkenne/Desktop/cplusobj/testingground/classimp.cpp -o /Users/knkenne/Desktop/cplusobj/testingground/build/testingground.build/Debug/testingground.build/Objects-normal/x86_64/classimp.o0#
+
+CCompileC build/testingground.build/Debug/testingground.build/Objects-normal/x86_64/main.o /Users/knkenne/Desktop/cplusobj/testingground/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s359422065.662218
+e359422065.663070
+r1
+xCompileC
+xbuild/testingground.build/Debug/testingground.build/Objects-normal/x86_64/main.o
+x/Users/knkenne/Desktop/cplusobj/testingground/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@62"Compile /Users/knkenne/Desktop/cplusobj/testingground/main.cpp359422065#359422065#0(0"0(0#0#54"/Users/knkenne/Desktop/cplusobj/testingground/main.cpp8601383648#1476"    cd /Users/knkenne/Desktop/cplusobj/testingground    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/knkenne/Desktop/cplusobj/testingground/build/testingground.build/Debug/testingground.build/testingground-generated-files.hmap -I/Users/knkenne/Desktop/cplusobj/testingground/build/testingground.build/Debug/testingground.build/testingground-own-target-headers.hmap -I/Users/knkenne/Desktop/cplusobj/testingground/build/testingground.build/Debug/testingground.build/testingground-all-target-headers.hmap -iquote /Users/knkenne/Desktop/cplusobj/testingground/build/testingground.build/Debug/testingground.build/testingground-project-headers.hmap -F/Users/knkenne/Desktop/cplusobj/testingground/build/Debug -I/Users/knkenne/Desktop/cplusobj/testingground/build/Debug/include -I/Users/knkenne/Desktop/cplusobj/testingground/build/testingground.build/Debug/testingground.build/DerivedSources/x86_64 -I/Users/knkenne/Desktop/cplusobj/testingground/build/testingground.build/Debug/testingground.build/DerivedSources -c /Users/knkenne/Desktop/cplusobj/testingground/main.cpp -o /Users/knkenne/Desktop/cplusobj/testingground/build/testingground.build/Debug/testingground.build/Objects-normal/x86_64/main.o0#
+
+CLd /Users/knkenne/Desktop/cplusobj/testingground/build/Debug/testingground normal x86_64
+s359422165.291295
+e359422165.309068
+r1
+xLd
+x/Users/knkenne/Desktop/cplusobj/testingground/build/Debug/testingground
+xnormal
+xx86_64
+lSLF07#2@76"Link /Users/knkenne/Desktop/cplusobj/testingground/build/Debug/testingground359422165#359422165#0(0"0(0#0#0"8602929696#557"    cd /Users/knkenne/Desktop/cplusobj/testingground    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/knkenne/Desktop/cplusobj/testingground/build/Debug -F/Users/knkenne/Desktop/cplusobj/testingground/build/Debug -filelist /Users/knkenne/Desktop/cplusobj/testingground/build/testingground.build/Debug/testingground.build/Objects-normal/x86_64/testingground.LinkFileList -mmacosx-version-min=10.6 -o /Users/knkenne/Desktop/cplusobj/testingground/build/Debug/testingground0#
+

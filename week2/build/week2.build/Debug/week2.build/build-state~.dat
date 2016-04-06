@@ -1,0 +1,53 @@
+Tweek2
+v7
+r0
+t359441600.540662
+cCheck dependencies
+cCompileC build/week2.build/Debug/week2.build/Objects-normal/x86_64/main.o /Users/knkenne/Desktop/cplusobj/week2/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004D5A274300000000000000EE
+t1297753923
+s238
+
+N/Users/knkenne/Desktop/cplusobj/week2/build/Debug/week2
+t2
+s0
+
+N/Users/knkenne/Desktop/cplusobj/week2/build/week2.build/Debug/week2.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/knkenne/Desktop/cplusobj/week2/build/week2.build/Debug/week2.build/Objects-normal/x86_64/week2.LinkFileList
+c000000004FBC6D400000000000000067
+t1337748800
+s103
+
+N/Users/knkenne/Desktop/cplusobj/week2/main.cpp
+c000000004FBC6D3E0000000000000299
+t1337748798
+s665
+i<iostream>
+i<string>
+i<sstream>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies359441600#359441600#0(0"0(0#1#0"8614441504#0"0#
+
+CCompileC build/week2.build/Debug/week2.build/Objects-normal/x86_64/main.o /Users/knkenne/Desktop/cplusobj/week2/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s359441600.539455
+e359441600.540616
+r0
+xCompileC
+xbuild/week2.build/Debug/week2.build/Objects-normal/x86_64/main.o
+x/Users/knkenne/Desktop/cplusobj/week2/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@54"Compile /Users/knkenne/Desktop/cplusobj/week2/main.cpp359441600#359441600#0(184"/Users/knkenne/Desktop/cplusobj/week2/main.cpp: In function 'int main(int, char* const*)':/Users/knkenne/Desktop/cplusobj/week2/main.cpp:49: error: 'o' was not declared in this scope1(4@34"'o' was not declared in this scope359441600#91#93#0(6@46"/Users/knkenne/Desktop/cplusobj/week2/main.cpp359441598#49#0#49#0#34"'*' was not declared in this scope0(0#0#46"/Users/knkenne/Desktop/cplusobj/week2/main.cpp8616403232#1244"    cd /Users/knkenne/Desktop/cplusobj/week2    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/knkenne/Desktop/cplusobj/week2/build/week2.build/Debug/week2.build/week2-generated-files.hmap -I/Users/knkenne/Desktop/cplusobj/week2/build/week2.build/Debug/week2.build/week2-own-target-headers.hmap -I/Users/knkenne/Desktop/cplusobj/week2/build/week2.build/Debug/week2.build/week2-all-target-headers.hmap -iquote /Users/knkenne/Desktop/cplusobj/week2/build/week2.build/Debug/week2.build/week2-project-headers.hmap -F/Users/knkenne/Desktop/cplusobj/week2/build/Debug -I/Users/knkenne/Desktop/cplusobj/week2/build/Debug/include -I/Users/knkenne/Desktop/cplusobj/week2/build/week2.build/Debug/week2.build/DerivedSources/x86_64 -I/Users/knkenne/Desktop/cplusobj/week2/build/week2.build/Debug/week2.build/DerivedSources -c /Users/knkenne/Desktop/cplusobj/week2/main.cpp -o /Users/knkenne/Desktop/cplusobj/week2/build/week2.build/Debug/week2.build/Objects-normal/x86_64/main.o1#
+
+CLd /Users/knkenne/Desktop/cplusobj/week2/build/Debug/week2 normal x86_64
+r0
+

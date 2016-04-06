@@ -1,0 +1,91 @@
+Tweek3
+v7
+r0
+t360042620.248777
+cCheck dependencies
+cCompileC build/week3.build/Debug/week3.build/Objects-normal/x86_64/main.o /Users/knkenne/Desktop/cplusobj/week3/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+cCompileC build/week3.build/Debug/week3.build/Objects-normal/x86_64/pointType.o /Users/knkenne/Desktop/cplusobj/week3/pointType.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+cLd /Users/knkenne/Desktop/cplusobj/week3/build/Debug/week3 normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004D5A274300000000000000EE
+t1297753923
+s238
+
+N/Users/knkenne/Desktop/cplusobj/week3/build/Debug/week3
+t1338349820
+s18944
+
+N/Users/knkenne/Desktop/cplusobj/week3/build/week3.build/Debug/week3.build/Objects-normal/x86_64/main.o
+t1338349819
+s47480
+
+N/Users/knkenne/Desktop/cplusobj/week3/build/week3.build/Debug/week3.build/Objects-normal/x86_64/pointType.o
+t1338349819
+s75980
+
+N/Users/knkenne/Desktop/cplusobj/week3/build/week3.build/Debug/week3.build/Objects-normal/x86_64/week3.LinkFileList
+c000000004FC598F600000000000000D3
+t1338349814
+s211
+
+N/Users/knkenne/Desktop/cplusobj/week3/main.cpp
+c000000004FC598F000000000000000E9
+t1338349808
+s233
+i<iostream>
+i"pointType.h"
+
+N/Users/knkenne/Desktop/cplusobj/week3/pointType.cpp
+c000000004FC597AB0000000000000297
+t1338349483
+s663
+i"pointType.h"
+i<iostream>
+i<iomanip>
+
+N/Users/knkenne/Desktop/cplusobj/week3/pointType.h
+c000000004FC597FC0000000000000189
+t1338349564
+s393
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies360042614#360042614#0(0"0(0#1#0"3343187568374212096#0"0#
+
+CCompileC build/week3.build/Debug/week3.build/Objects-normal/x86_64/main.o /Users/knkenne/Desktop/cplusobj/week3/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s360042614.401207
+e360042619.727498
+r1
+xCompileC
+xbuild/week3.build/Debug/week3.build/Objects-normal/x86_64/main.o
+x/Users/knkenne/Desktop/cplusobj/week3/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@54"Compile /Users/knkenne/Desktop/cplusobj/week3/main.cpp360042614#360042619#0(0"0(0#0#46"/Users/knkenne/Desktop/cplusobj/week3/main.cpp7955997338297972736#1244"    cd /Users/knkenne/Desktop/cplusobj/week3    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/knkenne/Desktop/cplusobj/week3/build/week3.build/Debug/week3.build/week3-generated-files.hmap -I/Users/knkenne/Desktop/cplusobj/week3/build/week3.build/Debug/week3.build/week3-own-target-headers.hmap -I/Users/knkenne/Desktop/cplusobj/week3/build/week3.build/Debug/week3.build/week3-all-target-headers.hmap -iquote /Users/knkenne/Desktop/cplusobj/week3/build/week3.build/Debug/week3.build/week3-project-headers.hmap -F/Users/knkenne/Desktop/cplusobj/week3/build/Debug -I/Users/knkenne/Desktop/cplusobj/week3/build/Debug/include -I/Users/knkenne/Desktop/cplusobj/week3/build/week3.build/Debug/week3.build/DerivedSources/x86_64 -I/Users/knkenne/Desktop/cplusobj/week3/build/week3.build/Debug/week3.build/DerivedSources -c /Users/knkenne/Desktop/cplusobj/week3/main.cpp -o /Users/knkenne/Desktop/cplusobj/week3/build/week3.build/Debug/week3.build/Objects-normal/x86_64/main.o0#
+
+CCompileC build/week3.build/Debug/week3.build/Objects-normal/x86_64/pointType.o /Users/knkenne/Desktop/cplusobj/week3/pointType.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s360042614.489677
+e360042619.776570
+r1
+xCompileC
+xbuild/week3.build/Debug/week3.build/Objects-normal/x86_64/pointType.o
+x/Users/knkenne/Desktop/cplusobj/week3/pointType.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@59"Compile /Users/knkenne/Desktop/cplusobj/week3/pointType.cpp360042614#360042619#0(0"0(0#0#51"/Users/knkenne/Desktop/cplusobj/week3/pointType.cpp8611658560#1254"    cd /Users/knkenne/Desktop/cplusobj/week3    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/knkenne/Desktop/cplusobj/week3/build/week3.build/Debug/week3.build/week3-generated-files.hmap -I/Users/knkenne/Desktop/cplusobj/week3/build/week3.build/Debug/week3.build/week3-own-target-headers.hmap -I/Users/knkenne/Desktop/cplusobj/week3/build/week3.build/Debug/week3.build/week3-all-target-headers.hmap -iquote /Users/knkenne/Desktop/cplusobj/week3/build/week3.build/Debug/week3.build/week3-project-headers.hmap -F/Users/knkenne/Desktop/cplusobj/week3/build/Debug -I/Users/knkenne/Desktop/cplusobj/week3/build/Debug/include -I/Users/knkenne/Desktop/cplusobj/week3/build/week3.build/Debug/week3.build/DerivedSources/x86_64 -I/Users/knkenne/Desktop/cplusobj/week3/build/week3.build/Debug/week3.build/DerivedSources -c /Users/knkenne/Desktop/cplusobj/week3/pointType.cpp -o /Users/knkenne/Desktop/cplusobj/week3/build/week3.build/Debug/week3.build/Objects-normal/x86_64/pointType.o0#
+
+CLd /Users/knkenne/Desktop/cplusobj/week3/build/Debug/week3 normal x86_64
+s360042619.776688
+e360042620.248650
+r1
+xLd
+x/Users/knkenne/Desktop/cplusobj/week3/build/Debug/week3
+xnormal
+xx86_64
+lSLF07#2@60"Link /Users/knkenne/Desktop/cplusobj/week3/build/Debug/week3360042619#360042620#0(0"0(0#0#0"8612243840#485"    cd /Users/knkenne/Desktop/cplusobj/week3    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/knkenne/Desktop/cplusobj/week3/build/Debug -F/Users/knkenne/Desktop/cplusobj/week3/build/Debug -filelist /Users/knkenne/Desktop/cplusobj/week3/build/week3.build/Debug/week3.build/Objects-normal/x86_64/week3.LinkFileList -mmacosx-version-min=10.6 -o /Users/knkenne/Desktop/cplusobj/week3/build/Debug/week30#
+

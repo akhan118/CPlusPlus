@@ -1,0 +1,52 @@
+Tweek1part2
+v7
+r0
+t358904586.586075
+cCheck dependencies
+cCompileC build/week1part2.build/Debug/week1part2.build/Objects-normal/x86_64/main.o /Users/knkenne/Desktop/cplusobj/week1part2/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004D5A274300000000000000EE
+t1297753923
+s238
+
+N/Users/knkenne/Desktop/cplusobj/week1part2/build/Debug/week1part2
+t2
+s0
+
+N/Users/knkenne/Desktop/cplusobj/week1part2/build/week1part2.build/Debug/week1part2.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/knkenne/Desktop/cplusobj/week1part2/build/week1part2.build/Debug/week1part2.build/Objects-normal/x86_64/week1part2.LinkFileList
+c000000004FB43B8A0000000000000076
+t1337211786
+s118
+
+N/Users/knkenne/Desktop/cplusobj/week1part2/main.cpp
+c000000004FB43B8800000000000000D2
+t1337211784
+s210
+i<iostream>
+i<fstream>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies358904586#358904586#0(0"0(0#1#0"3343187568374212096#0"0#
+
+CCompileC build/week1part2.build/Debug/week1part2.build/Objects-normal/x86_64/main.o /Users/knkenne/Desktop/cplusobj/week1part2/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s358904586.534329
+e358904586.586016
+r0
+xCompileC
+xbuild/week1part2.build/Debug/week1part2.build/Objects-normal/x86_64/main.o
+x/Users/knkenne/Desktop/cplusobj/week1part2/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@59"Compile /Users/knkenne/Desktop/cplusobj/week1part2/main.cpp358904586#358904586#0(393"/Users/knkenne/Desktop/cplusobj/week1part2/main.cpp:4: error: 'istream' does not name a type/Users/knkenne/Desktop/cplusobj/week1part2/main.cpp: In function 'int main(int, char* const*)':/Users/knkenne/Desktop/cplusobj/week1part2/main.cpp:16: error: 'infile' was not declared in this scope/Users/knkenne/Desktop/cplusobj/week1part2/main.cpp:19: error: 'cout' was not declared in this scope3(4@30"'istream' does not name a type358904586#0#93#0(6@51"/Users/knkenne/Desktop/cplusobj/week1part2/main.cpp358904584#4#0#4#0#24"'*' does not name a type0(4@39"'infile' was not declared in this scope358904586#189#103#0(6@51"/Users/knkenne/Desktop/cplusobj/week1part2/main.cpp358904584#16#0#16#0#34"'*' was not declared in this scope0(4@37"'cout' was not declared in this scope358904586#292#101#0(6@51"/Users/knkenne/Desktop/cplusobj/week1part2/main.cpp358904584#19#0#19#0#34"'*' was not declared in this scope0(0#0#51"/Users/knkenne/Desktop/cplusobj/week1part2/main.cpp8660259774160596992#1389"    cd /Users/knkenne/Desktop/cplusobj/week1part2    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/knkenne/Desktop/cplusobj/week1part2/build/week1part2.build/Debug/week1part2.build/week1part2-generated-files.hmap -I/Users/knkenne/Desktop/cplusobj/week1part2/build/week1part2.build/Debug/week1part2.build/week1part2-own-target-headers.hmap -I/Users/knkenne/Desktop/cplusobj/week1part2/build/week1part2.build/Debug/week1part2.build/week1part2-all-target-headers.hmap -iquote /Users/knkenne/Desktop/cplusobj/week1part2/build/week1part2.build/Debug/week1part2.build/week1part2-project-headers.hmap -F/Users/knkenne/Desktop/cplusobj/week1part2/build/Debug -I/Users/knkenne/Desktop/cplusobj/week1part2/build/Debug/include -I/Users/knkenne/Desktop/cplusobj/week1part2/build/week1part2.build/Debug/week1part2.build/DerivedSources/x86_64 -I/Users/knkenne/Desktop/cplusobj/week1part2/build/week1part2.build/Debug/week1part2.build/DerivedSources -c /Users/knkenne/Desktop/cplusobj/week1part2/main.cpp -o /Users/knkenne/Desktop/cplusobj/week1part2/build/week1part2.build/Debug/week1part2.build/Objects-normal/x86_64/main.o1#
+
+CLd /Users/knkenne/Desktop/cplusobj/week1part2/build/Debug/week1part2 normal x86_64
+r0
+

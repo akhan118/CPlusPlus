@@ -1,0 +1,61 @@
+Tweek3seminar
+v7
+r0
+t371603765.625252
+cCheck dependencies
+cCompileC build/week3seminar.build/Debug/week3seminar.build/Objects-normal/x86_64/main.o /Users/knkenne/Desktop/cplusobj/week3seminar/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+cLd /Users/knkenne/Desktop/cplusobj/week3seminar/build/Debug/week3seminar normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004D5A274300000000000000EE
+t1297753923
+s238
+
+N/Users/knkenne/Desktop/cplusobj/week3seminar/build/Debug/week3seminar
+t1349910965
+s17400
+
+N/Users/knkenne/Desktop/cplusobj/week3seminar/build/week3seminar.build/Debug/week3seminar.build/Objects-normal/x86_64/main.o
+t1349910964
+s79764
+
+N/Users/knkenne/Desktop/cplusobj/week3seminar/build/week3seminar.build/Debug/week3seminar.build/Objects-normal/x86_64/week3seminar.LinkFileList
+c00000000507601B5000000000000007C
+t1349910965
+s124
+
+N/Users/knkenne/Desktop/cplusobj/week3seminar/main.cpp
+c00000000507601B40000000000000A78
+t1349910964
+s2680
+i<iostream>
+i<iomanip>
+i<cmath>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies371603765#371603765#0(0"0(0#1#0"8614219008#0"0#
+
+CCompileC build/week3seminar.build/Debug/week3seminar.build/Objects-normal/x86_64/main.o /Users/knkenne/Desktop/cplusobj/week3seminar/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s371603765.603044
+e371603765.604241
+r1
+xCompileC
+xbuild/week3seminar.build/Debug/week3seminar.build/Objects-normal/x86_64/main.o
+x/Users/knkenne/Desktop/cplusobj/week3seminar/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@61"Compile /Users/knkenne/Desktop/cplusobj/week3seminar/main.cpp371603765#371603765#0(0"0(0#0#53"/Users/knkenne/Desktop/cplusobj/week3seminar/main.cpp8614030336#1447"    cd /Users/knkenne/Desktop/cplusobj/week3seminar    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/knkenne/Desktop/cplusobj/week3seminar/build/week3seminar.build/Debug/week3seminar.build/week3seminar-generated-files.hmap -I/Users/knkenne/Desktop/cplusobj/week3seminar/build/week3seminar.build/Debug/week3seminar.build/week3seminar-own-target-headers.hmap -I/Users/knkenne/Desktop/cplusobj/week3seminar/build/week3seminar.build/Debug/week3seminar.build/week3seminar-all-target-headers.hmap -iquote /Users/knkenne/Desktop/cplusobj/week3seminar/build/week3seminar.build/Debug/week3seminar.build/week3seminar-project-headers.hmap -F/Users/knkenne/Desktop/cplusobj/week3seminar/build/Debug -I/Users/knkenne/Desktop/cplusobj/week3seminar/build/Debug/include -I/Users/knkenne/Desktop/cplusobj/week3seminar/build/week3seminar.build/Debug/week3seminar.build/DerivedSources/x86_64 -I/Users/knkenne/Desktop/cplusobj/week3seminar/build/week3seminar.build/Debug/week3seminar.build/DerivedSources -c /Users/knkenne/Desktop/cplusobj/week3seminar/main.cpp -o /Users/knkenne/Desktop/cplusobj/week3seminar/build/week3seminar.build/Debug/week3seminar.build/Objects-normal/x86_64/main.o0#
+
+CLd /Users/knkenne/Desktop/cplusobj/week3seminar/build/Debug/week3seminar normal x86_64
+s371603765.604308
+e371603765.625206
+r1
+xLd
+x/Users/knkenne/Desktop/cplusobj/week3seminar/build/Debug/week3seminar
+xnormal
+xx86_64
+lSLF07#2@74"Link /Users/knkenne/Desktop/cplusobj/week3seminar/build/Debug/week3seminar371603765#371603765#0(0"0(0#0#0"8613978048#548"    cd /Users/knkenne/Desktop/cplusobj/week3seminar    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/knkenne/Desktop/cplusobj/week3seminar/build/Debug -F/Users/knkenne/Desktop/cplusobj/week3seminar/build/Debug -filelist /Users/knkenne/Desktop/cplusobj/week3seminar/build/week3seminar.build/Debug/week3seminar.build/Objects-normal/x86_64/week3seminar.LinkFileList -mmacosx-version-min=10.6 -o /Users/knkenne/Desktop/cplusobj/week3seminar/build/Debug/week3seminar0#
+

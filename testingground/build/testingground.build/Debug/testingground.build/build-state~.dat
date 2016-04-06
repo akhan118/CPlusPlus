@@ -1,0 +1,51 @@
+Ttestingground
+v7
+r0
+t359413395.958210
+cCheck dependencies
+cCompileC build/testingground.build/Debug/testingground.build/Objects-normal/x86_64/main.o /Users/knkenne/Desktop/cplusobj/testingground/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004D5A274300000000000000EE
+t1297753923
+s238
+
+N/Users/knkenne/Desktop/cplusobj/testingground/build/Debug/testingground
+t2
+s0
+
+N/Users/knkenne/Desktop/cplusobj/testingground/build/testingground.build/Debug/testingground.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/knkenne/Desktop/cplusobj/testingground/build/testingground.build/Debug/testingground.build/Objects-normal/x86_64/testingground.LinkFileList
+c000000004FBBFF13000000000000007F
+t1337720595
+s127
+
+N/Users/knkenne/Desktop/cplusobj/testingground/main.cpp
+c000000004FBBFF11000000000000007F
+t1337720593
+s127
+i<iostream>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies359413395#359413395#0(0"0(0#1#0"32651513917735028#0"0#
+
+CCompileC build/testingground.build/Debug/testingground.build/Objects-normal/x86_64/main.o /Users/knkenne/Desktop/cplusobj/testingground/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s359413395.894075
+e359413395.958142
+r0
+xCompileC
+xbuild/testingground.build/Debug/testingground.build/Objects-normal/x86_64/main.o
+x/Users/knkenne/Desktop/cplusobj/testingground/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@62"Compile /Users/knkenne/Desktop/cplusobj/testingground/main.cpp359413395#359413395#0(403"/Users/knkenne/Desktop/cplusobj/testingground/main.cpp:3: error: 'STD' is not a namespace-name/Users/knkenne/Desktop/cplusobj/testingground/main.cpp:3: error: expected namespace-name before ';' token/Users/knkenne/Desktop/cplusobj/testingground/main.cpp: In function 'int main(int, char* const*)':/Users/knkenne/Desktop/cplusobj/testingground/main.cpp:7: error: 'cout' was not declared in this scope3(4@29"'STD' is not a namespace-name359413395#0#95#0(6@54"/Users/knkenne/Desktop/cplusobj/testingground/main.cpp359413393#3#0#3#0#0"0(4@40"Expected namespace-name before ';' token359413395#95#106#0(6@54"/Users/knkenne/Desktop/cplusobj/testingground/main.cpp359413393#3#0#3#0#19"expected * before *0(4@37"'cout' was not declared in this scope359413395#300#103#0(6@54"/Users/knkenne/Desktop/cplusobj/testingground/main.cpp359413393#7#0#7#0#34"'*' was not declared in this scope0(0#0#54"/Users/knkenne/Desktop/cplusobj/testingground/main.cpp8029405159545332736#1476"    cd /Users/knkenne/Desktop/cplusobj/testingground    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/knkenne/Desktop/cplusobj/testingground/build/testingground.build/Debug/testingground.build/testingground-generated-files.hmap -I/Users/knkenne/Desktop/cplusobj/testingground/build/testingground.build/Debug/testingground.build/testingground-own-target-headers.hmap -I/Users/knkenne/Desktop/cplusobj/testingground/build/testingground.build/Debug/testingground.build/testingground-all-target-headers.hmap -iquote /Users/knkenne/Desktop/cplusobj/testingground/build/testingground.build/Debug/testingground.build/testingground-project-headers.hmap -F/Users/knkenne/Desktop/cplusobj/testingground/build/Debug -I/Users/knkenne/Desktop/cplusobj/testingground/build/Debug/include -I/Users/knkenne/Desktop/cplusobj/testingground/build/testingground.build/Debug/testingground.build/DerivedSources/x86_64 -I/Users/knkenne/Desktop/cplusobj/testingground/build/testingground.build/Debug/testingground.build/DerivedSources -c /Users/knkenne/Desktop/cplusobj/testingground/main.cpp -o /Users/knkenne/Desktop/cplusobj/testingground/build/testingground.build/Debug/testingground.build/Objects-normal/x86_64/main.o1#
+
+CLd /Users/knkenne/Desktop/cplusobj/testingground/build/Debug/testingground normal x86_64
+r0
+
